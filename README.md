@@ -58,5 +58,5 @@ WebClient.builder()
 
 Reference
 --
-* [Logging Spring WebClient Calls](https://www.baeldung.com/spring-log-webclient-calls, "Logging Spring WebClient Calls")
-* [how to log Spring 5 WebClient call](https://stackoverflow.com/questions/46154994/how-to-log-spring-5-webclient-call, "how to log Spring 5 WebClient call")
+* [Logging Spring WebClient Calls](https://www.baeldung.com/spring-log-webclient-calls "Logging Spring WebClient Calls")
+* [how to log Spring 5 WebClient call](https://stackoverflow.com/questions/46154994/how-to-log-spring-5-webclient-call "how to log Spring 5 WebClient call")
