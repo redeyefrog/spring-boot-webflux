@@ -1,0 +1,16 @@
+logging:
+  level:
+    root: info
+    org.springframework: info
+    com.redeyefrog: debug
+    reactor.netty.http.client.HttpClient: debug
+  pattern:
+    console: "%red(%d{yyyy-MM-dd HH:mm:ss}) %yellow([%thread]) %highlight(%-5level) %logger - %green(%msg%n)"
+
+#spring:
+#  main:
+#    web-application-type: none # servlet, reactive
+
+rest:
+  api:
+    url: https://127.0.0.1:8443
